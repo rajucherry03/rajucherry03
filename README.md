@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:  
 👋 Hi, I'm S Raju!<br>A passionate Fullstack Developer from India!<br>I love coding, problem-solving, and building creative web applications.<br><br>📫 How to reach me:<br>📧 Email: rajusampath.b@gmail.com<br>🌐 Portfolio : https://my-portfolio-xi-tawny-19.vercel.app/<br><br>⚡ Fun Fact: I think I am funny! 😆<br><br>🚀 About Me<br>🔭 Currently working on:<br><br>Enhancing my skills in ReactJS, Django, and Full Stack Development<br>🤝 Looking to collaborate on:<br><br>Open-source projects, frontend development, and AI-based applications<br>🌱 Currently learning:<br><br>Three.js, Next.js, and Advanced Python for Data Science<br>💬 Ask me about:<br><br>Frontend Development, Web Technologies, and UI/UX Design<br>✨ Connect with me:
 
 
