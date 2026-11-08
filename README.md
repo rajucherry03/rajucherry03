@@ -1,24 +1,63 @@
-# 💫 About Me:  
-👋 Hi, I'm S Raju!<br>A passionate Fullstack Developer from India!<br>I love coding, problem-solving, and building creative web applications.<br><br>📫 How to reach me:<br>📧 Email: rajusampath.b@gmail.com<br>🌐 Portfolio : https://my-portfolio-xi-tawny-19.vercel.app/<br><br>⚡ Fun Fact: I think I am funny! 😆<br><br>🚀 About Me<br>🔭 Currently working on:<br><br>Enhancing my skills in ReactJS, Django, and Full Stack Development<br>🤝 Looking to collaborate on:<br><br>Open-source projects, frontend development, and AI-based applications<br>🌱 Currently learning:<br><br>Three.js, Next.js, and Advanced Python for Data Science<br>💬 Ask me about:<br><br>Frontend Development, Web Technologies, and UI/UX Design<br>✨ Connect with me:
+<div align="center">
 
+# S Raju
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raju_s_3) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajuedusbs@gmail.com) 
+**Full-Stack Developer** &nbsp;|&nbsp; React &nbsp;|&nbsp; Django &nbsp;|&nbsp; JavaScript
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajucherry03&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajucherry03&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajucherry03&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Madanapalle, India
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rajucherry03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p>
+  <a href="https://my-portfolio-xi-tawny-19.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24292f?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/rajumits"><img src="https://img.shields.io/badge/LinkedIn-24292f?style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:rajusampath.b@gmail.com"><img src="https://img.shields.io/badge/Email-24292f?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=rajucherry03&icon=0&color=0)](https://visitcount.itsvg.in)
+## About
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a full-stack developer who builds web applications, with experience in EMS, LMS and AI-driven projects.
+
+- **Focus:** React front ends and Django back ends
+- **Currently learning:** Three.js, Next.js and advanced Python for data science
+- **Open to collaborating on:** open-source projects, frontend development and AI-based applications
+
+## Featured projects
+
+| Project | Description | Built with |
+| --- | --- | --- |
+| [CampsHub360 Backend](https://github.com/rajucherry03/django_backend) | Backend for managing educational institutions, covering students, faculty and academics. | Django, DRF, PostgreSQL, JWT |
+| [FSE Consultancy Website](https://github.com/rajucherry03/fs_engineering) | Responsive website for a full-stack engineering consultancy. | React, TypeScript, Tailwind CSS, Firebase |
+| [FSE Admin Portal](https://github.com/rajucherry03/fs_engineering_admin) | Admin portal for that website, with role-based access control and content management. | React, TypeScript, Firebase |
+| [LMS Admin](https://github.com/rajucherry03/LMS_ADMIN) | Administration dashboard for a learning management system. | React, Firebase, Recharts |
+| [Social Media App](https://github.com/rajucherry03/social-media-app) | Full-stack social media app with JWT authentication and Socket.IO. | MongoDB, Express, React, Node.js |
+| [3D Portfolio](https://github.com/rajucherry03/my-portfolio) | Personal portfolio with interactive 3D elements. | React, Three.js, Framer Motion |
+
+## Tech stack
+
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-24292f?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-24292f?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-24292f?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/HTML5-24292f?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS-24292f?style=flat-square&logo=css&logoColor=white" alt="CSS" /></td>
+  </tr>
+  <tr>
+    <td><strong>Frontend</strong></td>
+    <td><img src="https://img.shields.io/badge/React-24292f?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Redux-24292f?style=flat-square&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-24292f?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Bootstrap-24292f?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/Vite-24292f?style=flat-square&logo=vite&logoColor=white" alt="Vite" /></td>
+  </tr>
+  <tr>
+    <td><strong>Backend</strong></td>
+    <td><img src="https://img.shields.io/badge/Django-24292f?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Django%20REST%20Framework-24292f?style=flat-square&logo=django&logoColor=white" alt="Django REST Framework" /> <img src="https://img.shields.io/badge/Node.js-24292f?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-24292f?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/FastAPI-24292f?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /></td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MySQL-24292f?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-24292f?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Firebase-24292f?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" /></td>
+  </tr>
+  <tr>
+    <td><strong>Machine learning</strong></td>
+    <td><img src="https://img.shields.io/badge/PyTorch-24292f?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/TensorFlow-24292f?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /> <img src="https://img.shields.io/badge/scikit--learn-24292f?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /> <img src="https://img.shields.io/badge/NumPy-24292f?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pandas-24292f?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" /></td>
+  </tr>
+  <tr>
+    <td><strong>Cloud and tools</strong></td>
+    <td><img src="https://img.shields.io/badge/AWS-24292f?style=flat-square" alt="AWS" /> <img src="https://img.shields.io/badge/Vercel-24292f?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Netlify-24292f?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" /> <img src="https://img.shields.io/badge/Git-24292f?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub%20Actions-24292f?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Postman-24292f?style=flat-square&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Figma-24292f?style=flat-square&logo=figma&logoColor=white" alt="Figma" /></td>
+  </tr>
+</table>
