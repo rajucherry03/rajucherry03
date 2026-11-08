@@ -8,7 +8,7 @@ Madanapalle, India
 
 <p>
   <a href="https://my-portfolio-xi-tawny-19.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-24292f?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/rajumit"><img src="https://img.shields.io/badge/LinkedIn-24292f?style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rajumits"><img src="https://img.shields.io/badge/LinkedIn-24292f?style=flat-square" alt="LinkedIn" /></a>
   <a href="mailto:rajuedusbs@gmail.com"><img src="https://img.shields.io/badge/Email-24292f?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
