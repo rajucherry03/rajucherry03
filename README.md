@@ -16,13 +16,21 @@ Madanapalle, India
 
 ## About
 
-I create benchmark tasks, human-feedback data and evaluations for frontier AI coding agents, as both a task author and a quality reviewer. I build containerized coding and machine-learning tasks with rigorous automated verifiers, and I have a background in full-stack web and mobile development with React, JavaScript, Python and Firebase.
+I build and review the tasks that frontier AI coding agents are trained and evaluated on: Terminal-Bench / Harbor-style RL environments with hidden verifiers, multimodal and data-analysis evaluation tasks, LLM-judge rubrics, SFT reference answers and RLHF preference data. I work as both a task author and a quality reviewer, and I have a background in full-stack web and mobile development with React, JavaScript, Python and Firebase.
 
 ## Experience
 
 **AI Training & Evaluation Specialist** · Freelance (Remote) · Oct 2025 – Present
-- Author Dockerized coding and GPU-based machine-learning benchmark tasks with deterministic test suites for confidential AI evaluation programs
+- Engineer RL coding environments in the Terminal-Bench / Harbor format: Docker sandboxes with a task instruction, a hidden pytest verifier that writes a binary reward, and an oracle solution
+- Stress-test tasks against frontier agents (Claude Opus, GPT) over repeated runs, tightening them until most agent attempts fail
+- Design multimodal, multi-file evaluation tasks in legal, real estate and engineering, where the answer depends on scans, drawings, maps and audio
+- Build data-analysis evaluation tasks in finance, healthcare, operations and product analytics, each seeded with data-quality traps and one verifiable answer
+- Build GPU-based machine-learning tasks with milestone rubric scoring, and software-engineering tasks from real merged pull requests
+- Make verifiers tamper-resistant: the oracle must pass, empty runs must fail and deliberately wrong solutions must be rejected
 - Review peer submissions for correctness, difficulty and verifier rigor on two benchmark programs
+- Rank model responses for RLHF with pairwise preferences and written justifications
+- Write weighted LLM-judge rubrics with positive and penalty criteria, plus golden reference answers for SFT
+- Write Python tooling throughout: synthetic document and data generators, verifiers, pytest suites and blind-test harnesses
 - Delivered 50+ reviewer-approved tasks in a single monthly cycle
 - Lead a team of 30+ freelance contributors
 
@@ -32,8 +40,8 @@ I create benchmark tasks, human-feedback data and evaluations for frontier AI co
 **Web Developer Intern** · MarkAtlasInkjet Technologies · Oct 2024 – Mar 2025
 - Built a responsive Employee Management System in React with separate Admin and User modules
 
-**Web Developer Intern** · Ravuru Tech Pvt. Ltd · Feb 2024 – Aug 2024
-- Led a Learning Management System project using React and Firebase, with course enrollment and an admin dashboard
+**Full-Stack Developer Intern** · Ravuru Tech Pvt. Ltd · Mar 2024
+- Contributed to an e-learning platform and an employee management system, building frontend and backend features with React.js, Node.js, JavaScript and Tailwind CSS
 
 ## Machine learning projects
 
@@ -54,6 +62,8 @@ I create benchmark tasks, human-feedback data and evaluations for frontier AI co
 | [LMS Admin](https://github.com/rajucherry03/LMS_ADMIN) | Administration dashboard for a learning management system. | React, Firebase, Recharts |
 | [Social Media App](https://github.com/rajucherry03/social-media-app) | Full-stack social media app with JWT authentication and Socket.IO. | MongoDB, Express, React, Node.js |
 | [3D Portfolio](https://github.com/rajucherry03/my-portfolio) | Personal portfolio with interactive 3D elements. | React, Three.js, Framer Motion |
+| Faculty Management System | Departmental system for faculty information, task assignments and performance records, with Firebase authentication. | React, Firebase, HTML, CSS |
+| FutureForgeX Company Website | Responsive company website for the FutureForgeX startup, with Firebase backend services. | React, JavaScript, Firebase |
 
 ## Publication
 
@@ -65,7 +75,7 @@ Co-author. *Communications in Computer and Information Science*, vol. 2688, pp. 
 <table>
   <tr>
     <td><strong>AI and evaluation</strong></td>
-    <td>AI agent benchmarking, LLM evaluation, human feedback for AI (RLHF), verifier and test design, rubric-based scoring, prompt engineering, GPU-based ML workflows</td>
+    <td>Reinforcement learning, RLHF, LLM evaluation, supervised fine-tuning (SFT), rubric design, AI agent benchmarking, verifier and test design, prompt engineering, data annotation, GPU-based ML workflows</td>
   </tr>
   <tr>
     <td><strong>Machine learning</strong></td>
